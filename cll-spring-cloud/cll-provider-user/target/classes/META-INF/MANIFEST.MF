@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cll-provider-user
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dell
+Implementation-Vendor-Id: com.cll.cloud
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/cll-spring-c
+ loud/cll-provider-user/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
